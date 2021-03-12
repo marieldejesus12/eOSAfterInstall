@@ -1,1 +1,1 @@
-eOSAfterInstall
+Elementary OS script after install
